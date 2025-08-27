@@ -1,7 +1,4 @@
-As a MentorBaba intern, your goal is to build a machine learning model that predicts whether a resume matches a job description. This exercise will give you hands-on experience with text processing, embeddings, and classification, while introducing practical HR-AI applications.
 
-Background
-Recruiters often spend hours screening resumes. Automating resume screening not only saves time but also ensures the right candidates are identified. This assignment exposes you to a real-world problem in AI for HR, while allowing creativity in your solution.
 
 Instructions
 Step 1 – Dataset Preparation
